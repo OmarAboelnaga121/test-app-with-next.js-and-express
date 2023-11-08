@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A test app for next.js with express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express.git"
+  },
+  "author": "Omar Wael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express/issues"
+  },
+  "homepage": "https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express#readme"
+}
