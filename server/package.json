@@ -4,7 +4,7 @@
   "description": "A test app for next.js with express",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express/issues"
   },
-  "homepage": "https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express#readme"
+  "homepage": "https://github.com/OmarAboelnaga121/test-app-with-next.js-and-express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
 }
